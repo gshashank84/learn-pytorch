@@ -1,8 +1,8 @@
 # learn-pytorch
 
 ## Learning Journey:
-- Digit Classifier 
-- Image Classifier
+- Digit Classifier -> 90%
+- Image Classifier -> 72%
 
 ### Libraries used-
 - torch
