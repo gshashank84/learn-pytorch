@@ -1,6 +1,6 @@
 # learn-pytorch
 
-## Learning Journey:   
+## Learning Journey: (with Accuracies achieved)  
 - Digit Classifier -> `98%`   
 - Image Classifier -> `72%` 
 
