@@ -1,7 +1,8 @@
 # learn-pytorch
 
-## Learning Journey:
-- Digit Classifier -> 90%
+## Learning Journey:   
+                     Accuracy
+- Digit Classifier -> 98%
 - Image Classifier -> 72%
 
 ### Libraries used-
