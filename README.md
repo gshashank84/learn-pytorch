@@ -2,7 +2,7 @@
 
 ## Learning Journey: (with Accuracies achieved)  
 - Digit Classifier -> `98%`   
-- Image Classifier -> `72%` 
+- Image Classifier on CIFAR10 -> `72%` 
 
 ### Libraries used-
 - torch
